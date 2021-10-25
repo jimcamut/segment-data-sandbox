@@ -1,0 +1,15 @@
+{
+  "name": "exasol-segment",
+  "version": "1.0.0",
+  "description": "Segment event testing",
+  "main": "index.js",
+  "author": "Jim Camut",
+  "license": "MIT",
+  "dependencies": {
+    "@analytics/segment": "^1.1.1",
+    "analytics": "^0.7.15"
+  },
+  "scripts": {
+    "test": "node src/index.js"
+  }
+}
